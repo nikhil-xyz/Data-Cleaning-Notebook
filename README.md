@@ -10,13 +10,13 @@ Data cleaning is the process of detecting and correcting errors and inconsistenc
   - **Deletion:** Remove rows or columns with missing values.
   - **Imputation:** Fill missing values with estimated values (mean, median, mode, or more advanced techniques).
 - **Detecting and Removing Outliers:**
- - Identify data points that deviate significantly from the norm.
- - Remove or correct outliers to improve data quality.
+  - Identify data points that deviate significantly from the norm.
+  - Remove or correct outliers to improve data quality.
 - **Correcting Inconsistent Data:**
- - Standardize data formats (e.g., date, currency).
- - Resolve inconsistencies in data types (e.g., numeric vs. text).
+  - Standardize data formats (e.g., date, currency).
+  - Resolve inconsistencies in data types (e.g., numeric vs. text).
 - **Removing Duplicates:**
- - Identify and remove duplicate records to avoid bias and redundancy.
+  - Identify and remove duplicate records to avoid bias and redundancy.
 - **Data Validation:**
- - Ensure data integrity by checking for logical errors and inconsistencies.
- - Validate data against predefined rules or constraints.
+  - Ensure data integrity by checking for logical errors and inconsistencies.
+  - Validate data against predefined rules or constraints.
