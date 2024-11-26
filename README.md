@@ -20,3 +20,7 @@ Data cleaning is the process of detecting and correcting errors and inconsistenc
 - **Data Validation:**
   - Ensure data integrity by checking for logical errors and inconsistencies.
   - Validate data against predefined rules or constraints.
+
+## **Exploratory Data Analysis (EDA)**
+Exploratory Data Analysis (EDA) is a crucial step in the data science pipeline. It involves understanding and visualizing data to uncover patterns, anomalies, and relationships between variables.
+
