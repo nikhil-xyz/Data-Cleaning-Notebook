@@ -7,8 +7,8 @@ Data cleaning is the process of detecting and correcting errors and inconsistenc
 **Common Data Cleaning Tasks:**
 
 - **Handling Missing Values:**
- - **Deletion:** Remove rows or columns with missing values.
- - **Imputation:** Fill missing values with estimated values (mean, median, mode, or more advanced techniques).
+  - **Deletion:** Remove rows or columns with missing values.
+  - **Imputation:** Fill missing values with estimated values (mean, median, mode, or more advanced techniques).
 - **Detecting and Removing Outliers:**
  - Identify data points that deviate significantly from the norm.
  - Remove or correct outliers to improve data quality.
